@@ -1,4 +1,4 @@
-# My_First_Data_Analysis_Repo
+# My-First-Data-Analysis-Repo
 
 ----
  # Problem Objective: Problem Statement
